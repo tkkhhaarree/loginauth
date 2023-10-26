@@ -1,0 +1,8 @@
+POST http://localhost:5000/userauth/signup
+Content-Type: application/json
+
+{
+    "username": "tk2",
+    "email": "tk2@gmail.com",
+    "password": "123456"
+}
